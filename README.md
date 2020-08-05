@@ -1,20 +1,20 @@
 # Cookbook-Consumer-Behavior-Analysis-From-Amazon
 
-# Web Scraping & EDA
+## Web Scraping & EDA
 Please see
 /BIA660_Mid-term_Report
 
-# K-means Clustering
+## K-means Clustering
 /cluster.ipynb
 data:
 /Naive_Sentiment_Analysis/review_join_cluster.csv
 
-# Topic Modeling
+## Topic Modeling
 Please see the .ipynb file for all the details.
 /Topic_Modeling/lda_display_6000_reviews.html is a visualization output from the jupyternotebook.
 
 
-# Naive Sentiment Analysis
+## Naive Sentiment Analysis
 data used
 0. 3 clusters:
 /Naive_Sentiment_Analysis/Cluster0
@@ -23,13 +23,13 @@ data used
 1. the whole dataset:
 /Naive_Sentiment_Analysis/review_join_cluster_6000.csv
 
-# sentiment analysis based on CNN
+## sentiment analysis based on CNN
 data:
 /sentiment analysis based on CNN/compare.csv
 Please see the .ipynb file for the analysis
 /sentiment analysis based on CNN/sentiment analysis based on CNN.ipynb
 
-# word2vec
+## word2vec
 0. data used
 /Word2vec/review_join_cluster_6000.csv
 1. training the models:
